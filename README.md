@@ -1,10 +1,10 @@
 # KyBdele
 Eclipse Mars Modeling Tools + KyBDele
 – Descarga — win32 –
-[Link download](http://www.kybele.etsii.urjc.es/kybdele?download=458)
+http://www.kybele.etsii.urjc.es/kybdele?download=458 (Open in a new window)
 Nuevo Eclipse Kybdele v0.4.0 & Relational v0.0.2!!
 – Descarga — x64 –
-http://www.kybele.etsii.urjc.es/kybdele?download=448
+http://www.kybele.etsii.urjc.es/kybdele?download=448 (Open in a new window)
 
 Instalación Base de Eclipse
 KyBDele es un Plug-in para Eclipse, el cual nos permite generar modelos Entidad Relación mediante un editor gráfico GMF. Este plug-in, requiere, previa a su instalación, que dispongamos en nuestro equipo, de una de las versiones “Eclipse Modeling Tools” de 32 bits/64 bits disponibles en el portal de descargas de Eclipse.org.
