@@ -2,3 +2,6 @@
 
 A modo de ejemplo, la siguiente figura muestra la captura de un modelo elaborado con KyBDele – E/R.
 ![LineaMetroMiniatura](https://github.com/KybeleResearch/KyBdele/blob/gh-pages/gh-pages/images/Linea_Metro-300x184.png)
+
+Y a continuación un pequeño Grafo Relacional elaborado con KyBDele – Relational
+![LineaMetroMiniatura](gh-pages/images/rdbms/profesor_rdbms.png)
