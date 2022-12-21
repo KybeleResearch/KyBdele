@@ -2,11 +2,11 @@
 **KyBDele** es un editor gráfico para la elaboración de modelos E/R (Entidad-Relación) y Grafos Relacionales que está construido sobre la plataforma Eclipse, utilizando las facilidades proporcionadas por EMF y GMF para el desarrollo de herramientas de modelado.
 
 A modo de ejemplo, la siguiente figura muestra la captura de un modelo elaborado con KyBDele – E/R.
-![LineaMetroMiniatura](gh-pages/images/ermodels/linea_metro_miniatura.png)
+[![LineaMetroMiniatura](gh-pages/images/ermodels/linea_metro_miniatura.png)](gh-pages/images/ermodels/linea_metro.png)
 
 Y a continuación un pequeño Grafo Relacional elaborado con KyBDele – Relational.
 
-![ProfesorRDBMS](gh-pages/images/rdbms/profesor_rdbms_miniatura.png)
+[![ProfesorRDBMS](gh-pages/images/rdbms/profesor_rdbms_miniatura.png)](gh-pages/images/rdbms/profesor_rdbms.png)
 
 # Motivación
 Uno de los objetivos principales de las asignaturas básicas relacionadas con las Bases de Datos es que los alumnos dominen el proceso de desarrollo “tradicional” de una Base de Datos. En general, dicho proceso parte de la elaboración de un modelo conceptual de la Base de Datos que luego se transforma en un modelo lógico (más próximo a la implementación final) y finalmente se plasma en un esquema SQL.
